@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-xwecv/static/css/main.1afd8549.chunk.css",
+    "main.js": "https://.github.io/csb-xwecv/static/js/main.a7697f27.chunk.js",
+    "main.js.map": "https://.github.io/csb-xwecv/static/js/main.a7697f27.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-xwecv/static/js/runtime-main.f77f783b.js",
+    "runtime-main.js.map": "https://.github.io/csb-xwecv/static/js/runtime-main.f77f783b.js.map",
+    "static/js/2.02dea917.chunk.js": "https://.github.io/csb-xwecv/static/js/2.02dea917.chunk.js",
+    "static/js/2.02dea917.chunk.js.map": "https://.github.io/csb-xwecv/static/js/2.02dea917.chunk.js.map",
+    "index.html": "https://.github.io/csb-xwecv/index.html",
+    "precache-manifest.fceeb1efa9f14943d9d52406e48a2372.js": "https://.github.io/csb-xwecv/precache-manifest.fceeb1efa9f14943d9d52406e48a2372.js",
+    "service-worker.js": "https://.github.io/csb-xwecv/service-worker.js",
+    "static/css/main.1afd8549.chunk.css.map": "https://.github.io/csb-xwecv/static/css/main.1afd8549.chunk.css.map",
+    "static/js/2.02dea917.chunk.js.LICENSE.txt": "https://.github.io/csb-xwecv/static/js/2.02dea917.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f77f783b.js",
+    "static/js/2.02dea917.chunk.js",
+    "static/css/main.1afd8549.chunk.css",
+    "static/js/main.a7697f27.chunk.js"
+  ]
+}
